@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>cs50</title>
+        </head>
+        <body>
+            This is my practise from cs50
+            i hope that it will be worth it     
+        </body>
+    </html>
